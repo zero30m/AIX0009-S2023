@@ -1,5 +1,4 @@
-# AIX0009 - AI-Crypto-Trading Midterm Project
+# AIX0009 - AI Crypto Trading(Spring, 2023)
 
-
+### Team Project
 ### Hanyang University, South Korea
-### 2023-1 Team Project
